@@ -11,4 +11,12 @@ describe Solver do
   it 'returns No Negative Integers when given a negative number' do
     expect(solver.factorial(-1)).to eq('No Negative Integers')
   end
+
+  describe '#reverse' do
+  it 'returns the reverse of a string' do 
+    expect(solver.reverse('Andy')).to eq('ydnA')
+  end
 end
+end
+
+
