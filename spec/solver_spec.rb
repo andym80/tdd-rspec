@@ -23,6 +23,7 @@ describe Solver do
       expect(solver.fizzbuzz(9)).to eq('Fizz')
       expect(solver.fizzbuzz(20)).to eq('Buzz')
       expect(solver.fizzbuzz(15)).to eq('FizzBuzz')
+      expect(solver.fizzbuzz(4)).to eq(4)
     end
   end
 end
