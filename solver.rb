@@ -3,7 +3,7 @@ class Solver
     if number.zero?
       1
     elsif number.negative?
-      ‘No Negative Integers’
+      'No Negative Integers'
     else
       number * factorial(number - 1)
     end
