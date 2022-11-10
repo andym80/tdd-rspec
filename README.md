@@ -53,11 +53,14 @@ Kindly modify the files as needed.
 ## Author
 
 👤 **Andy Mmenutti**
-- GitHub: [@vitorguedesmadeira](https://github.com/andym80)
+- GitHub: [@andym80](https://github.com/andym80)
 - LinkedIn: (https://www.linkedin.com/in/andres-menutti/)
 
 
-👤 **Erik Stoupignan Sánchez Beltrán** - GitHub: [@ErikStoupignan](https://github.com/ErikStoupignan) - Twitter: [@Erik_Stoupignan](https://twitter.com/Erik_Stoupignan) - LinkedIn: [Erik Stoupignan Sánchez Beltrán](https://www.linkedin.com/in/erik-sanchez-beltran/)
+👤 **Erik Stoupignan Sánchez Beltrán** 
+- GitHub: [@ErikStoupignan](https://github.com/ErikStoupignan) 
+- Twitter: [@Erik_Stoupignan](https://twitter.com/Erik_Stoupignan) 
+- LinkedIn: [Erik Stoupignan Sánchez Beltrán](https://www.linkedin.com/in/erik-sanchez-beltran/)
 
 
 👤**John Omachi**
