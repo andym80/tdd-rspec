@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Rspec-TDD ✅
+# TDD-Rspec ✅
 
 > This project was made to practice Test Driven Development with the help of RSpec.
 
@@ -52,18 +52,21 @@ Kindly modify the files as needed.
 
 ## Author
 
-👤 **Andy Mmenutti**
-- GitHub: [@vitorguedesmadeira](https://github.com/andym80)
+👤 **Andy Menutti**
+- GitHub: [@andym80](https://github.com/andym80)
 - LinkedIn: (https://www.linkedin.com/in/andres-menutti/)
 
 
-👤 **Erik Stoupignan Sánchez Beltrán** - GitHub: [@ErikStoupignan](https://github.com/ErikStoupignan) - Twitter: [@Erik_Stoupignan](https://twitter.com/Erik_Stoupignan) - LinkedIn: [Erik Stoupignan Sánchez Beltrán](https://www.linkedin.com/in/erik-sanchez-beltran/)
+👤 **Erik Stoupignan Sánchez Beltrán** 
+- GitHub: [@ErikStoupignan](https://github.com/ErikStoupignan) 
+- Twitter: [@Erik_Stoupignan](https://twitter.com/Erik_Stoupignan) 
+- LinkedIn: [Erik Stoupignan Sánchez Beltrán](https://www.linkedin.com/in/erik-sanchez-beltran/)
 
 
 👤**John Omachi**
 - GitHub: [@John](https://github.com/MrOmachi)
 - Twitter: [@John](https://twitter.com/MrOmachi)
-- LinkedIn: [John](https://www.linkedin.com/in/john-omachi-0b5b5b1b3/)
+- LinkedIn: [@John](https://www.linkedin.com/in/john-omachi-0b5b5b1b3/)
 
 ## 🤝 Contributing
 
