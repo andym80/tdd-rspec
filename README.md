@@ -52,7 +52,7 @@ Kindly modify the files as needed.
 
 ## Author
 
-👤 **Andy Mmenutti**
+👤 **Andy Menutti**
 - GitHub: [@andym80](https://github.com/andym80)
 - LinkedIn: (https://www.linkedin.com/in/andres-menutti/)
 
