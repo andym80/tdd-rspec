@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Rspec-TDD ✅
+# TDD-Rspec ✅
 
 > This project was made to practice Test Driven Development with the help of RSpec.
 
