@@ -66,7 +66,7 @@ Kindly modify the files as needed.
 👤**John Omachi**
 - GitHub: [@John](https://github.com/MrOmachi)
 - Twitter: [@John](https://twitter.com/MrOmachi)
-- LinkedIn: [John](https://www.linkedin.com/in/john-omachi-0b5b5b1b3/)
+- LinkedIn: [@John](https://www.linkedin.com/in/john-omachi-0b5b5b1b3/)
 
 ## 🤝 Contributing
 
